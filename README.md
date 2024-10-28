@@ -15,11 +15,12 @@ Examples:
 
 **More Infos**
 
-For questions, issues, or feature requests, please visit the [plugin's GitHub repository](https://github.com/Erl-koenig/obsidian-dailyPrompt).
+For questions, issues, or feature requests, please visit the [plugin's GitHub repository](https://github.com/Erl-koenig/obsidian-checkboxReorder).
 
 Made by:
 [Erl-koenig](https://github.com/Erl-koenig),
 Thanks to [lukemt](https://github.com/lukemt) for contributing to the project
+Thanks to [coffeemesh](https://github.com/coffeemesh) for contributing to the project
 
 ## Say Thanks 🙏
 
