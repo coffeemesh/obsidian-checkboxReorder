@@ -17,11 +17,12 @@ Examples:
 
 For questions, issues, or feature requests, please visit the [plugin's GitHub repository](https://github.com/Erl-koenig/obsidian-checkboxReorder).
 
-Made by:
-[Erl-koenig](https://github.com/Erl-koenig),
-Thanks to [lukemt](https://github.com/lukemt) for contributing to the project
-Thanks to [coffeemesh](https://github.com/coffeemesh) for contributing to the project
+**Made by:**
+[Erl-koenig](https://github.com/Erl-koenig)      
 
+**Contributors:**
+- Thanks to [lukemt](https://github.com/lukemt)   
+- Thanks to [coffeemesh](https://github.com/coffeemesh)
 ## Say Thanks 🙏
 
 If you find this plugin helpful, consider supporting its development
